@@ -6,3 +6,10 @@ View file here: http://htmlpreview.github.io/?https://github.com/krithikamahesh/
 > A real use case is then worked on after understanding the common distributions in MCS.
 > Stock and factor datasets used are downloaded from Yahoo! and Investing.com
 
+**Recommender System**
+
+View file here: : http://htmlpreview.github.com/?https://github.com/krithikamahesh/LabWork_Assignments/blob/master/Algorithmic%20Machine%20Learning/RecommenderSystem.html
+
+> After working on understanding the Matrix Factorization and Alternating Least Squares, a simple model for a music recommender system is developed.
+> At first, the underlying dataset is analysed using Spark SQL. Inconsistencies are identified and data is cleaned.
+> Collaborative-Filtering is then employed to build a statistical recommender system which is then evaluated using AUC as the metric.
