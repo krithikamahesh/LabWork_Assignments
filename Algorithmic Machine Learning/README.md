@@ -1,3 +1,11 @@
+**Challenge Lab - House Price Prediction**
+
+View html version here: http://htmlpreview.github.io/?https://github.com/krithikamahesh/LabWork_Assignments/blob/master/Algorithmic%20Machine%20Learning/ChallengeLab_HousePricePrediction.html
+
+> As a part of lab work for Algorithmic Machine Learning, this Kaggle challenge includes: data analysis, cleaning and pre-processing,
+> development of a statistical model and it's validation.
+> Five models implemented and compared are: Linear Regression, XGBoost, Bayesian Ridge Regression, LASSO Model, Random Forest.
+
 **Monte Carlo Simulation**
 
 View file here: http://htmlpreview.github.io/?https://github.com/krithikamahesh/LabWork_Assignments/blob/master/Algorithmic%20Machine%20Learning/MonteCarloSimulation.html
